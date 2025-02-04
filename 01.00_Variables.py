@@ -8,18 +8,18 @@
 
 # Example
 x = 5
-y = "John"
+y = "Hassan"
 print(x)
 print(y)
 
 # Variables do not need to be declared with any particular type, and can even change type after they have been set.
 # Example
 x = 4       # x is of type int
-x = "Sally" # x is now of type str
+x = "Hassan" # x is now of type str
 print(x)
 
 # String variables can be declared either by using single or double quotes:
 # Example
-x = "John"
+x = "Hassan"
 # is the same as
-x = 'John'
+x = 'Hassan'
