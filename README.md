@@ -1,8 +1,9 @@
 ﻿# learn-python
 
 
-- setup python
+- Setup the Environment 
+  
 - Variables
-- Rules for Variable Names
+  - Rules for Variable Names
 - Datatype
-- - Strings
+- Strings
